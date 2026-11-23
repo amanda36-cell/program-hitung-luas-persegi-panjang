@@ -1,4 +1,4 @@
-#include <iostream>#include <iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -15,7 +15,7 @@ using namespace std;
 int main() {
 
     // 1. DEKLARASI VARIABEL
- float l,p,l;
+  float L,p,l;
 
 
     // 2. INPUT
@@ -27,11 +27,11 @@ int main() {
 
 
     // 3. PROSES
-    l=p*l;
+  L=p*l;
 
 
     // 4. OUTPUT
-    cout<<"Nilai luas adalah:"<<L<<endl;
+  cout<<"Nilai luas adalah:"<<L<<endl;
 
 
     return 0;
